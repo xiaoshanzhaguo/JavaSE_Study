@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be90db2a-2e1b-4574-8d84-cee15849d27b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/myString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_01/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_02/StringDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_02/StringDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_03/StringTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_03/StringTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_03/StringTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_03/StringTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myString/src/com/itheima_03/StringTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/myStringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/src/com/itheima_01/StringBuilderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/src/com/itheima_02/StringBuilderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/src/com/itheima_02/StringBuilderDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/src/com/itheima_03/StringBuilderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13_字符串/myStringBuilder/src/com/itheima_03/StringBuilderTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/ArrayListDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/ArrayListDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/ArrayListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/ArrayListTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yPCFJVpK5QvplEp4AXhI4CoLTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_01.ArrayListDemo01" />
+      <module name="myArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_01.ArrayListDemo02" />
+      <module name="myArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_03.ArrayListTest" />
+      <module name="myArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_02.ArrayListTest01" />
+      <module name="myArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_02.ArrayListTest02" />
+      <module name="myArrayList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.ArrayListTest02" />
+        <item itemvalue="Application.ArrayListTest01" />
+        <item itemvalue="Application.ArrayListDemo02" />
+        <item itemvalue="Application.ArrayListDemo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be90db2a-2e1b-4574-8d84-cee15849d27b" name="Changes" comment="" />
+      <created>1632143730632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632143730632</updated>
+      <workItem from="1632143731822" duration="3764000" />
+      <workItem from="1632147556280" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
