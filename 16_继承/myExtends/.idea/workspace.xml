@@ -2,30 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c42ab5-7762-4135-8347-1da2cdba1519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_05/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_05/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_05/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_06/NewPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_06/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_06/PhoneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_07/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_07/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_08/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_08/Granddad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_08/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_08/Son.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/itheima_09/Demo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/itheima_09/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/itheima_09/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_10/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_10/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_10/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_11/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_11/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_11/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_11/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17_修饰符/myImport/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17_修饰符/myImport/myImport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17_修饰符/myImport/src/cn/itcast/Teacher(1).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17_修饰符/myImport/src/com/itheima/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_04/Zi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_05/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_05/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_05/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_05/Zi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_06/NewPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_06/NewPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_07/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_07/Fu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_07/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_07/Zi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_08/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_08/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_08/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_08/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myExtends/com/itheima_09/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myExtends/com/itheima_09/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,28 +67,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../17_修饰符/myImport" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Demo (4)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima_02.Demo" />
+  <component name="RunManager" selected="Application.AnimalDemo">
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_11.AnimalDemo" />
       <module name="myExtends" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima_03.Demo" />
-      <module name="myExtends" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima_03.*" />
+          <option name="PATTERN" value="com.itheima_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima_01.Demo" />
+    <configuration name="Demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_09.Demo" />
       <module name="myExtends" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima_01.*" />
+          <option name="PATTERN" value="com.itheima_09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_10.PersonDemo" />
+      <module name="myExtends" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalDemo" />
+        <item itemvalue="Application.PersonDemo" />
+        <item itemvalue="Application.Demo (5)" />
         <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (3)" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +159,7 @@
       <workItem from="1632398186071" duration="2345000" />
       <workItem from="1632402030103" duration="698000" />
       <workItem from="1632412698707" duration="48000" />
+      <workItem from="1632470630964" duration="6239000" />
     </task>
     <servers />
   </component>
