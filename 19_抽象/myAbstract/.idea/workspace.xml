@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6871be8-9dd2-4599-8aa6-8b2ede25303a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myAbstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Dog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ynmRHliZHhKpf7Zwwg6pe0G9P1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.AnimalDemo (3)">
+    <configuration name="AnimalDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_02.AnimalDemo" />
+      <module name="myAbstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_03.AnimalDemo" />
+      <module name="myAbstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_04.AnimalDemo" />
+      <module name="myAbstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima_01.AnimalDemo" />
+      <module name="myAbstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnimalDemo (3)" />
+        <item itemvalue="Application.AnimalDemo (2)" />
+        <item itemvalue="Application.AnimalDemo (1)" />
+        <item itemvalue="Application.AnimalDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6871be8-9dd2-4599-8aa6-8b2ede25303a" name="Changes" comment="" />
+      <created>1632895717284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632895717284</updated>
+      <workItem from="1632895718845" duration="4262000" />
+      <workItem from="1632990575370" duration="1814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
