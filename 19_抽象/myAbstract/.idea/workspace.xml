@@ -2,25 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6871be8-9dd2-4599-8aa6-8b2ede25303a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myAbstract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_01/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_02/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_03/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima_04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_01/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_01/JumppingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_04/Inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_04/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_04/Inter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_04/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_05/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_05/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_接口/myInterface/src/com/itheima_05/SpeakEnglish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../20_接口/myInterface" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Application.AnimalDemo (3)">
@@ -127,6 +122,7 @@
       <updated>1632895717284</updated>
       <workItem from="1632895718845" duration="4262000" />
       <workItem from="1632990575370" duration="1814000" />
+      <workItem from="1632993450433" duration="617000" />
     </task>
     <servers />
   </component>
